@@ -152,7 +152,3 @@ Try adjusting:
 - Output file naming via command-line arguments
 - Audio level monitoring
 - Compression formats (MP3, FLAC)
-
-## License
-
-Specify your preferred license (MIT, Apache 2.0, GPL, etc.).
